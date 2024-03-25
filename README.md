@@ -5,7 +5,7 @@
 ###
 
 <br clear="both">
-
+ 
 <p align="center">My name is Nikolay Nikolov, 19 years old,<br> I am currently working on various projects, focusing on server-side development.</p>
 
 ###
