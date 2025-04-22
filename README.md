@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Work Tracker v1.0<br>👯 I’m looking to collaborate on any open source projects or as a team member at all<br>🌱 I’m currently learning node.js in depth<br>💬 Ask me about node.js / C#
+🔭 I’m currently working on Work Manager v1.0 in collaboration with Alex Parashkevov <br>👯 I’m looking to collaborate on any open source projects or as a team member at all<br>🌱 I’m currently learning node.js in depth<br>💬 Ask me about node.js / C#
 
 
 ## 🌐 Socials:
