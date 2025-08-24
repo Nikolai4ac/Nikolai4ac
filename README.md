@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Work Manager v1.0 in collaboration with Alex Parashkevov <br>👯🌱
+🔭 I’m currently working on Work Manager v1.0 in collaboration with Alex Parashkevov <br>
 
 
 ## 🌐 Socials:
